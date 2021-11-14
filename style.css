@@ -887,3 +887,8 @@ font-family: 'Rubik', sans-serif;
 		display: none;
 	}
 }
+@media screen and (max-width: 390px) {
+	.artist_word{
+		font-size: 20px;
+	}
+}
